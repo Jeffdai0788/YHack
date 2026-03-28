@@ -1,0 +1,504 @@
+﻿YHack 2026 🎈☁️
+March 28–29, 2026
+
+
+Welcome to YHack 2026. 💙🤍  This is your go-to guide for the weekend — everything you need to know in one place. Questions? Drop them in #ask-an-organizer on Discord and we’ve got you. 
+
+
+
+
+Location
+YHack will take place March 28–29, 2026 in the following locations:
+* OC Marsh Lecture Hall (Yale Science Building) — 260 Whitney Ave, New Haven, CT 06511 Link. Main hub for registration, ceremonies, meals, and team formation.
+* Davies Auditorium (Becton Center) — 15 Prospect Street, New Haven, CT 06511 Link. Overflow check-in and ceremony projection.
+* Kline Tower — 219 Prospect Street, New Haven, CT 06511 Link. Sponsor booths, hacking space, workshops, and judging (Room 205).
+* 17 Hillhouse Avenue (HLH17) — 17 Hillhouse Ave, New Haven, CT 06511 Link. More working space.
+Registration will take place at OC Marsh. Volunteers or organizers will help direct you between buildings.
+________________
+Site Map / Finding Your Way
+Most hacking will take place on Yale’s Science Hill. Here is a map of Science Hill with the relevant locations. The entrance to OC Marsh Lecture Hall has been marked with a red X:
+  
+
+17 Hillhouse, our auxiliary hacking space, is located on 17 Hillhouse Avenue. To reach this location, simply walk 5 minutes south from Science Hill on Hillhouse Avenue. Hence the name, 17 Hillhouse (17 Hillhouse Avenue).
+
+
+The available hacking spaces are OC Marsh Lecture Hall, and the rooms 03, 05, 111, 113, 115 in 17 Hillhouse.
+  
+
+(Pictured above: 17 Hillhouse Avenue)
+
+
+  
+
+(Pictured above: Davies Auditorium)
+Transportation
+Flying
+If you live in or near one of the following cities, you can CHECK Avelo Airlines to see if they have affordable flights straight to New Haven:
+* Atlanta, GA (ATL)
+* Cleveland, OH (CLE)
+* Charleston, SC (CHS)
+* Charlotte / Concord, NC (USA)
+* Chicago, IL (via ORD)
+* Dallas-Fort Worth, TX (DFW)
+* Daytona Beach, FL (DAB)
+* Fort Lauderdale, FL (FLL)
+* Fort Myers, FL (RSW)
+* Greenville / Spartanburg, SC (GSP)
+* Houston, TX (Hobby) (HOU)
+* Indianapolis, IN (IND)
+* Jacksonville, FL (JAX)
+* Key West, FL (EYW)
+* Knoxville, TN (TYS)
+* Lakeland / Orlando, FL (LAL)
+* Myrtle Beach, SC (MYR)
+* Nashville, TN (BNA)
+* Orlando, FL (MCO)
+* Raleigh / Durham, NC (RDU)
+* San Juan, Puerto Rico (SJU)
+* Sarasota / Bradenton, FL (SRQ)
+* Savannah, Ga. / Hilton Head, SC (SAV)
+* Tampa, FL (TPA)
+* Washington, D.C./Baltimore, MD (BWI)
+* West Palm Beach, FL (PBI)
+* Wilmington, NC (ILM)
+If you DON’T live in one of those cities, you can opt to fly into New York City (EWR, JFK, LGA) or Hartford (BDL). If you fly into NYC, you can take the Metro North (a 2-hour train ride) to New Haven for 20 dollars. Do be cautious around the recent situation at LaGuardia. If you fly into Hartford, you can take a ~70 dollar Uber to New Haven.
+Ground Transportation
+If you live on the East Coast, Amtrak provides good transportation to New Haven. If you live near New York City, Metro North is a good option. GreyHound/Flix buses are also an option. If you plan to bring your car to New Haven, see the Parking section below.
+What to Expect
+What is a hackathon?
+So you’ve decided to come to one without knowing what one is. A hackathon is a short-timeframe software and hardware creation event. In this context, to “hack” means to create or to build. At YHack, you’ll meet fellow hackers, learn new technologies, and build a project you can take home. We'll have free food, swag, workshops, mentorship, prizes, games, and more. Come with or without a team or an idea, and we'll give you the space to build something awesome.
+I’ve never been to a hackathon and I’m nervous.
+Excellent! You’ll find yourself just at home.
+Do I need to know how to code?
+No programming experience is necessary. We will have plenty of resources to help you during the event. We also offer workshops for a broad range of skill levels. 
+Schedule
+YHack will take place March 28–29, 2026. The finalized schedule will be posted soon. Here is a tentative idea for what to expect.
+Saturday, March 28
+* 7:30 AM — Check-in opens (OC Marsh)
+* 10:00 AM — Opening Ceremony (OC Marsh)
+* 11:00 AM — Hacking starts
+* 1:00 PM — Lunch (OC Marsh)
+* 6:00 PM — Dinner (OC Marsh)
+Sunday, March 29
+* 8:30 AM — Breakfast (OC Marsh)
+* 11:00 AM — Hacking stops + Video submission begins
+* 11:30 AM — Video submission ends
+* 12:00 PM — Judging begins (Kline Tower 205)
+* 2:30 PM — Judging ends
+* 3:00 PM — Closing Ceremony + Awards (OC Marsh)
+* 6:00 PM — Safe travels home!
+
+
+Packing List 
+
+
+Here’s what to pack for the weekend:
+* Government-issued ID and university ID
+   * You will need to show both forms of ID to be let into the venue
+   * These IDs are NOT optional. They are incredibly incredibly mandatory. You WILL be turned away at the venue if you cannot present both forms of ID.
+* Computer(s) and accessories (mouse, keyboard, etc.)
+* Chargers (phone, laptop, etc.)
+* Any hardware you might want to hack with. Don’t bring anything oversized, dangerous, or illegal (don’t bring a whole CNC machine)
+* Sleeping things (sleeping bag, pillow, eye mask)
+* A change of clothes, ideally a warm set (New Haven weather is unpredictable!)
+* Hygiene stuff
+   * Toothbrush/toothpaste
+   * Deodorant (please)
+* Legal medication if needed
+Discord O_O 
+
+
+We are using Discord to communicate this year! Please make sure to join our Discord.
+Parking
+
+
+If you are bringing a car to campus, check out the “Visitor” section of this link.
+Wifi
+
+
+You can connect to the network via YaleGuest.
+
+
+API Credits + Promos
+
+
+Some of our sponsors have generously offered credits for their platforms, and be redeemed below:
+* Will be added soon!
+
+
+Prizes & Tracks
+All projects are automatically eligible for general (non-sponsor) prizes.
+YHack features both main tracks (e.g., Sustainability, Entertainment, Personal AI Agents, Prediction Markets, Hardware) and sponsor-specific tracks. When you submit your project, you can select any tracks you’d like to be considered for, as there is no limit but you should only choose ones that meaningfully fit your project.
+Grand Prize 
+Category
+	Sponsor
+	Description
+	 Prize
+	1st Place Grand Winner
+
+
+2nd Place
+
+
+3rd Place
+	YHack
+	Best overall projects at YHack 2026
+	$4000
+
+
+
+
+$2000
+
+
+$1000
+	
+
+Main Tracks
+Category
+	Sponsor
+	Description/Remarks
+	Prize
+	Entertainment 1st Place
+
+
+2nd
+
+
+3rd
+	Snapchat
+	Most interesting/innovative hack for the primary purpose of entertainment
+	$750
+
+
+
+
+$500
+
+
+$250
+	Personal AI Agent 1st Place
+
+
+2nd Place
+
+
+3rd Place
+	Harper
+	Harper, a YC-backed AI-native insurance brokerage, is sponsoring the “Personal AI Agents in Enterprises” track at YHack. Build intelligent agents that automate real business workflows and decision-making, and compete for $4,500+ in prizes, Meta Quest 3s, and fast-tracked interviews with the Harper team.
+	$2000
+Meta Quest 3s
+Fast-Tracked Interview
+
+
+$1500
+Mechanical Keyboards
+Fast-Tracked Interview
+
+
+$1000
+Fast-Tracked Interview
+	Prediction Markets 1st Place
+
+
+2nd Place
+
+
+3rd Place
+	Polymarket
+	Most impressive hack centered around prediction markets using Polymarket.
+	$2000
+
+
+
+
+$1000
+
+
+$500
+	Societal Impact 1st Place
+
+
+2nd
+
+
+3rd
+
+
+
+
+	ASUS
+	Innovation that leads to the most significant societal impact.
+	2x ASUS Ascent GX10 Supercomputer
+2x sets of ROG gaming keyboard & mouse
+ASUS Swag Bags
+
+
+1x ASUS Ascent GX10 Supercomputer
+2x Sets of ROG gaming keyboard + mouse
+1x ASUS Zenscreen portable monitor
+ASUS swag bags
+
+
+4x ASUS Zenscreen portable monitor
+ASUS swag bags
+	Hardware
+1st Place
+
+
+2nd
+
+
+3rd
+	QNX
+	Most significant innovation for which the primary feature is physical hardware (for more details see below!)
+	$2000
+
+
+
+
+$1000
+
+
+$500
+	
+
+	
+
+	
+
+	
+
+	Sponsor Side Tracks
+Category
+	Sponsor
+	Description/Remarks
+	Prize
+	Best use of Snap Lens Studio 1st
+2nd
+
+
+3rd
+	Snapchat
+	Most interesting/innovative usage of Snap AR Lens Studio
+	1500
+
+
+1000
+
+
+500
+	Best use of Hermes
+	Nous Research
+	Most interesting usage of Hermes API
+	TBD
+	Best use of Hex API 1st
+
+
+2nd
+
+
+3rd
+	Hex
+	Most interesting usage of Hex API
+	$2000
+
+
+
+
+$1000
+
+
+$500
+	Best use of Lava API
+	Lava
+	Most interesting usage of Lava’s platform
+	TBD
+	Best Use of Viam
+	VIAM
+	Build robots and physical systems without low-level infrastructure headaches. Viam is an open-source platform for configuring, controlling, and programming any hardware: Raspberry Pis, robotic arms, sensors, and more.  It handles device communication, data pipelines and ML deployment so you can focus on what your machine actually does.
+We're lending Raspberry Pis and SO-101 robotic arms to interested teams, and giving away motors, actuators, and other hardware.
+What we're looking for:
+        •        A working hardware project using Viam as its core control layer
+        •        Creative use of sensors, actuators, or ML to solve a real problem
+        •        Bonus points for using multiple parts of the platform together — vision + navigation, data capture + ML, fleet coordination, etc.
+	A Viam Rover 2 for each member of the winning team.
+	Best Use of K2 Think V2
+	MBZUAI IFM
+	Build with one of the most capable open reasoning systems available. K2 Think V2 is a 70B-parameter model purpose-built for reasoning from the ground up — excelling at complex, multi-step problem solving across mathematics, science, coding, logic, and simulation. It features expanded context for sustained reasoning over large bodies of information, and is fully open end-to-end: pre-training data, post-training recipes, checkpoints, and evaluations are all publicly available and independently reproducible.
+
+
+What we’re looking for:
+    •    Real, non-trivial use of advanced reasoning in real-world scenarios
+    •    Creative applications beyond obvious LLM demos
+    •    K2 Think V2 as a core part of your product, not a side API call
+	reMarkable tablet for every member of the winning team
+	Built with Zed
+	Zed
+	Most fast, thoughtful project that solves a real world problem. Built using Zed!
+
+
+	1:1 mentorship session with Conrad Irwin (Zed engineer, CTO Superhuman); Zed Pro credits; Zed merch gift card — merch.zed.dev; 
+
+
+First: $2000
+Second: $1000
+Third: $500
+	
+
+Category Side Tracks
+Category
+	Description/Remarks
+	Prize
+	
+
+	Best First Hack
+	AT MOST 1 person from your team has participated in a prior hackathon (not including solo experienced competitors)
+	$400
+	
+
+	Best Solo Hack
+	Best project with only one team member
+	Framework Laptop Computer
+	
+
+	Most Creative Hack
+	Blow us away.
+	$100
+	
+
+	Most Useless Hack
+	Create a pointless hack.
+	Useless Prize
+	
+
+	Most on Theme Hack (Love)
+	Project that best captures the theme of love through connection, community, or a unique interpretation of whatever you think love means.
+	$100
+	
+
+	Best UI/UX
+	Project with the most intuitive, polished, and delightful user experience
+	$100
+	
+
+	Most Viral Post @YHack
+	Not for hackathon projects. Create any YHack-related reel or video (not story) that tags @yhack.yale on Instagram and the one with the most views wins. We will reach out to the winning account.
+	$100
+	
+
+	MLH Partner Prizes
+Category
+	Description/Remarks
+	Prize
+	
+
+	GoDaddy Registry
+	
+
+	TBD
+	
+
+	MongoDB
+	
+
+	TBD
+	
+
+	Gemini
+	
+
+	TBD
+	
+
+	ElevenLabs
+	
+
+	TBD
+	
+
+	Solana
+	
+
+	TBD
+	
+
+	Auth0
+	
+
+	TBD
+	
+
+	
+
+________________
+Hardware 
+
+
+TBD
+
+
+RULES
+
+
+In order to be eligible to win a prize, your team and project must follow all of the below rules and guidelines:
+1. All members of your team must have checked-in to YHack (needless to say, they must have all been accepted to the hackathon)
+2. At least one member of your team must be physically present to demo your project to judges on Sunday (check schedule for specific time)
+3. All hacking and building must have taken place during hacking hours (11:00am on Saturday, March 28 - 11:00am on Sunday, March 29).
+   1. Note: brainstorming is allowed (and encouraged) before the hackathon, but all coding and physical building must take place during hackathon hours
+   2. We will verify that winning work is completed by only members of the team and completed within the correct timeframe. We WILL check your GitHub repo.
+4. Your team cannot contain more than 4 people.
+5. This is an MLH event. By participating in this event, you agree to abide by the MLH Code of Conduct.
+
+
+
+
+Judging
+
+
+TBD
+
+
+Food
+
+
+Yes, of course we’ll feed you.
+
+
+Food includes:
+* Dunkin
+* Papa John’s
+* Subway
+
+
+Assorted snacks, energy drinks, etc.
+You are encouraged to check out local restaurants near Yale! New Haven is known for its pizza, so do check those places out at your discretion.
+Overnight Logistics
+
+
+Our hacking venues are opening to hacking overnight! Just be reasonable, be safe, bring whatever you need to be comfortable.
+Reimbursements
+
+
+In order to have your travel reimbursed, you must attend the event and submit a quality project to our Devpost, alongside our other requirements outlined in our travel/hackathon rules.
+
+
+After the hackathon, we will send out an email to everyone who received reimbursements or prizes with the relevant tax forms.
+
+
+We will process reimbursements in the months after our hackathon; please be patient!
+
+
+Follow Us!
+
+
+Follow us on social media! Instagram, LinkedIn
+
+
+Sponsors (THANKS!!)
+  
+
+Questions??
+
+
+Let us know at yhack@yhack.org or post in #ask-an-organizer on Discord!
